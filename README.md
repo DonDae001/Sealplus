@@ -55,6 +55,8 @@ A modern [Seal](https://github.com/JunkFood02/Seal) featuring custom themes, exc
 - **Gradient Dark Theme** ⭐ *Exclusive to Seal Plus* — OLED-friendly dark backgrounds, vibrant gradients, glassmorphism, and smooth animations.
 - **Material Design 3** — Dynamic colors, Dark/Light themes, and modern Compose components.
 
+---
+
 ### 🎯 Core Download Capabilities
 - **Universal Downloader** — Support for 1000+ platforms via [yt-dlp](https://github.com/yt-dlp/yt-dlp). ([Supported sites](https://github.com/yt-dlp/yt-dlp/blob/master/supportedsites.md))
 - **High-Quality Audio Extraction** — Extract MP3, M4A, OPUS, FLAC, or WAV with metadata and thumbnail embedding via [mutagen](https://github.com/quodlibet/mutagen).
@@ -69,9 +71,13 @@ A modern [Seal](https://github.com/JunkFood02/Seal) featuring custom themes, exc
 - **Custom Commands** — Create and save custom yt-dlp command templates with full CLI functionality.
 - **Download Manager** — Track download history, search and filter downloads, share files, and perform batch operations.
 
+---
+
 ### 🚀 Exclusive Seal Plus Features
 - **Auto-Update System** — Automatic version checking, changelog display, and one-click APK updates.
 - **Enhanced Community** — Access to [YouTube tutorials](https://youtube.com/@maheshtechnicals) and the [Telegram community](https://t.me/maheshtechnicals), with regular updates and support.
+
+---
 
 ### 💻 Technical Excellence
 - **Pure Kotlin Architecture** — Single Activity, 100% Jetpack Compose UI, Clean MVVM, and Kotlin Coroutines.
