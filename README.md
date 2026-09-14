@@ -4,52 +4,83 @@
 
 # Seal Plus
 
-### 🎬 Advanced Video/Audio Downloader for Android
+### 🎬 Video/Audio Downloader for Android
 
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/MaheshTechnicals/Sealplus?style=for-the-badge&label=Latest&logo=github)](https://github.com/MaheshTechnicals/Sealplus/releases/latest/)
 [![GitHub all releases](https://img.shields.io/github/downloads/MaheshTechnicals/Sealplus/total?style=for-the-badge&label=Downloads&logo=github)](https://github.com/MaheshTechnicals/Sealplus/releases/)
 [![GitHub Repo stars](https://img.shields.io/github/stars/MaheshTechnicals/Sealplus?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPHN2ZyBoZWlnaHQ9IjI0IiB2aWV3Qm94PSIwIC05NjAgOTYwIDk2MCIgd2lkdGg9IjI0IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgogIDxwYXRoIGQ9Im0zNTQtMjQ3IDEyNi03NiAxMjYgNzctMzMtMTQ0IDExMS05Ni0xNDYtMTMtNTgtMTM2LTU4IDEzNS0xNDYgMTMgMTExIDk3LTMzIDE0M1pNMjMzLTgwbDY1LTI4MUw4MC01NTBsMjg4LTI1IDExMi0yNjUgMTEyIDI2NSAyODggMjUtMjE4IDE4OSA2NSAyODEtMjQ3LTE0OUwyMzMtODBabTI0Ny0zNTBaIiBzdHlsZT0iZmlsbDogcmdiKDI0NSwgMjI3LCA2Nik7Ii8%2BCjwvc3ZnPg%3D%3D&color=yellow)](https://www.star-history.com/?repos=MaheshTechnicals%2FSealplus&type=date&legend=top-left)
 
-**Seal Plus** is a powerful, premium video and audio downloader for Android. Built on the solid foundation of [Seal](https://github.com/JunkFood02/Seal) by [JunkFood02](https://github.com/JunkFood02), this enhanced version features exclusive premium UI themes, advanced functionality, and cutting-edge Material Design 3 implementation.
-
-### 🌟 What Makes Seal Plus Special?
-
-- **🎨 Exclusive Gradient Dark Theme**: Premium glassmorphism UI with vibrant gradients
-- **⚡ Auto-Update System**: Seamless in-app updates from our release page
-- **🎯 Enhanced Repository**: Active maintenance and improvements by [Mahesh Technicals](https://github.com/MaheshTechnicals)
-- **💎 Modern Architecture**: Latest Android SDK 37, Kotlin 2.3, Jetpack Compose, yt-dlp 2025.12.08
-- **🚀 Performance Optimized**: Hardware-accelerated animations, ultra-fast downloads with speed optimization, advanced aria2c support
+A modern [Seal](https://github.com/JunkFood02/Seal) featuring custom themes, exclusive features and Material 3 design
 
 ---
 
-### 🌍 Language Support
+### 🌐 Translations
 
-English
+🇬🇧
 &nbsp;&nbsp;| &nbsp;&nbsp;
-<a href="https://github.com/JunkFood02/Seal/blob/main/translations/README-zh_Hans.md">简体中文</a>
+<a href="https://github.com/JunkFood02/Seal/blob/main/translations/README-zh_Hans.md">🇨🇳</a>
 &nbsp;&nbsp;| &nbsp;&nbsp;
-<a href="https://github.com/JunkFood02/Seal/blob/main/translations/README-zh_Hant.md">繁體中文</a>
+<a href="https://github.com/JunkFood02/Seal/blob/main/translations/README-zh_Hant.md">🇹🇼</a>
 &nbsp;&nbsp;| &nbsp;&nbsp;
-<a href="https://github.com/JunkFood02/Seal/blob/main/translations/README-ar.md">العربية</a>
+<a href="https://github.com/JunkFood02/Seal/blob/main/translations/README-ar.md">🇸🇦</a>
 &nbsp;&nbsp;| &nbsp;&nbsp;
-<a href="https://github.com/JunkFood02/Seal/blob/main/translations/README-pt.md">Portuguese</a>
+<a href="https://github.com/JunkFood02/Seal/blob/main/translations/README-pt.md">🇵🇹</a>
 &nbsp;&nbsp;| &nbsp;&nbsp;
-<a href="https://github.com/JunkFood02/Seal/blob/main/translations/README-ua.md">Українська</a>
+<a href="https://github.com/JunkFood02/Seal/blob/main/translations/README-ua.md">🇺🇦</a>
 &nbsp;&nbsp;| &nbsp;&nbsp;
-<a href="https://github.com/JunkFood02/Seal/blob/main/translations/README-th.md">ภาษาไทย</a>
+<a href="https://github.com/JunkFood02/Seal/blob/main/translations/README-th.md">🇹🇭</a>
 &nbsp;&nbsp;| &nbsp;&nbsp;
-<a href="https://github.com/JunkFood02/Seal/blob/main/translations/README-fa.md">فارسی</a>
+<a href="https://github.com/JunkFood02/Seal/blob/main/translations/README-fa.md">🇮🇷</a>
 &nbsp;&nbsp;| &nbsp;&nbsp;
-<a href="https://github.com/JunkFood02/Seal/blob/main/translations/README-it.md">Italiano</a>
+<a href="https://github.com/JunkFood02/Seal/blob/main/translations/README-it.md">🇮🇹</a>
 &nbsp;&nbsp;| &nbsp;&nbsp;
-<a href="https://github.com/JunkFood02/Seal/blob/main/translations/README-ja.md">日本語</a>
+<a href="https://github.com/JunkFood02/Seal/blob/main/translations/README-ja.md">🇯🇵</a>
 &nbsp;&nbsp;| &nbsp;&nbsp;
-<a href="https://github.com/JunkFood02/Seal/blob/main/translations/README-hi.md">हिंदी</a>
+<a href="https://github.com/JunkFood02/Seal/blob/main/translations/README-hi.md">🇮🇳</a>
 &nbsp;&nbsp;| &nbsp;&nbsp;
-<a href="https://github.com/JunkFood02/Seal/blob/main/translations/README-bn.md">বাংলা</a>
+<a href="https://github.com/JunkFood02/Seal/blob/main/translations/README-bn.md">🇧🇩</a>
 
 </div>
 
+---
+
+## ✨ Key Features
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+    
+
+### 🎨 Premium UI & Theming
+- **Gradient Dark Theme** ⭐ *Exclusive to Seal Plus* — OLED-friendly dark backgrounds, vibrant gradients, glassmorphism, and smooth animations.
+- **Material Design 3** — Dynamic colors, Dark/Light themes, and modern Compose components.
+
+### 🎯 Core Download Capabilities
+- **Universal Downloader** — Support for 1000+ platforms via [yt-dlp](https://github.com/yt-dlp/yt-dlp). ([Supported sites](https://github.com/yt-dlp/yt-dlp/blob/master/supportedsites.md))
+- **High-Quality Audio Extraction** — Extract MP3, M4A, OPUS, FLAC, or WAV with metadata and thumbnail embedding via [mutagen](https://github.com/quodlibet/mutagen).
+- **Playlist Support** — Download entire playlists with progress tracking, customizable naming, and resume support.
+- **Subtitle Support** — Embed subtitles into videos or download them separately with multi-language support.
+
+    </td>
+    <td width="50%" valign="top">
+
+### ⚡ Advanced Features
+- **High-Speed Downloads** — Embedded [aria2c](https://github.com/aria2/aria2) engine with multi-connection downloads, automatic retries, and resume support.
+- **Custom Commands** — Create and save custom yt-dlp command templates with full CLI functionality.
+- **Download Manager** — Track download history, search and filter downloads, share files, and perform batch operations.
+
+### 🚀 Exclusive Seal Plus Features
+- **Auto-Update System** — Automatic version checking, changelog display, and one-click APK updates.
+- **Enhanced Community** — Access to [YouTube tutorials](https://youtube.com/@maheshtechnicals) and the [Telegram community](https://t.me/maheshtechnicals), with regular updates and support.
+
+### 💻 Technical Excellence
+- **Pure Kotlin Architecture** — Single Activity, 100% Jetpack Compose UI, Clean MVVM, and Kotlin Coroutines.
+- **Modern Technology Stack** — Android SDK 37, Kotlin 2.3.21, Jetpack Compose BOM 2026.05.01, Room 2.8.4, and Material 3.
+- **Performance Optimized** — Hardware-accelerated animations, efficient memory management, and battery-conscious background processing.
+
+    </td>
+  </tr>
+</table>
 
 ## 📱 Screenshots
 
@@ -68,101 +99,6 @@ English
 </div>
 
 <br>
-
-## ✨ Key Features
-
-### � Premium UI & Theming
-- **Gradient Dark Theme** ⭐ *Exclusive to Seal Plus*
-  - Deep charcoal/obsidian backgrounds (#0A0A0F, #14141F) perfect for OLED displays
-  - Vibrant linear gradients with blues (#5B47E5) and purples (#8B5CF6)
-  - Sophisticated glassmorphism effects with backdrop blur
-  - Premium card-based layouts with smooth 60fps animations
-  - WCAG AA compliant contrast ratios for accessibility
-  - Toggle on/off in Settings → Look & Feel
-
-- **Material Design 3**: Beautiful, modern UI
-  - System-wide dynamic colors (Android 12+)
-  - Dark/Light/Gradient Dark theme options
-  - Smooth micro-animations and transitions
-  - Premium component library
-
-### 🎯 Core Download Capabilities
-- **Universal Downloader**: Support for 1000+ platforms via [yt-dlp](https://github.com/yt-dlp/yt-dlp)
-  - YouTube, Instagram, TikTok, Twitter, Facebook, Vimeo, Dailymotion
-  - Reddit, Twitch, SoundCloud, Bandcamp, and many more
-  - [View full list of supported sites](https://github.com/yt-dlp/yt-dlp/blob/master/supportedsites.md)
-  
-- **High-Quality Audio Extraction**
-  - Extract audio with metadata embedding via [mutagen](https://github.com/quodlibet/mutagen)
-  - Automatic thumbnail and metadata integration
-  - Multiple formats: MP3, M4A, OPUS, FLAC, WAV
-  - Configurable bitrate and quality settings
-
-- **Playlist Support**: Batch download entire playlists
-  - Single-click playlist downloading
-  - Progress tracking for each video
-  - Customizable naming schemes
-  - Resume capability for interrupted downloads
-
-### ⚡ Advanced Features
-- **High-Speed Downloads**: Embedded [aria2c](https://github.com/aria2/aria2) engine
-  - Multi-connection parallel downloads
-  - Automatic retry on network failure
-  - Resume interrupted downloads
-  - Optimized for mobile networks
-
-- **Subtitle Support**: Comprehensive subtitle handling
-  - Embed subtitles directly into videos
-  - Download subtitles as separate files
-  - Auto-generated and manual subtitles
-  - Multiple language support
-
-- **Custom Commands**: Advanced yt-dlp command execution
-  - Create and save command templates
-  - Full yt-dlp CLI functionality
-  - Template management system
-  - Direct command-line access for power users
-
-- **Download Manager**: Comprehensive download history
-  - Track all downloads with timestamps
-  - Re-download or share files easily
-  - Search and filter capabilities
-  - Batch operations support
-
-### 🚀 Exclusive Seal Plus Features
-- **Auto-Update System**: Seamless in-app updates
-  - Automatic version checking
-  - One-click APK updates
-  - Changelog display before updating
-  - Enabled by default for convenience
-
-- **Enhanced Community**: Connected ecosystem
-  - [YouTube Channel](https://youtube.com/@maheshtechnicals) for tutorials
-  - [Telegram Community](https://t.me/maheshtechnicals) for support
-  - Active development and quick bug fixes
-  - Regular feature updates
-
-### 💻 Technical Excellence
-- **Pure Kotlin Architecture**: Modern Android development
-  - Single Activity architecture (no fragments)
-  - 100% Jetpack Compose UI
-  - Clean MVVM architecture
-  - Kotlin Coroutines for async operations
-
-- **Latest Technology Stack**
-  - Android SDK 37 (Android 17)
-  - Kotlin 2.3.21 with K2 compiler
-  - Jetpack Compose BOM 2026.05.01
-  - Room Database 2.8.4
-  - Material 3 Components
-
-- **Performance Optimized**
-  - Hardware-accelerated animations
-  - Efficient memory management
-  - Background task handling
-  - Battery optimization friendly
-
-
 
 ## ⬇️ Download & Installation
 
