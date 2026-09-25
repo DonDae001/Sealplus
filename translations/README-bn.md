@@ -1,165 +1,358 @@
 <div align="center">
 
-<img width="" src="fastlane/metadata/android/en-US/images/icon.png"  width=160 height=160  align="center">
+<img width="" src="/fastlane/metadata/android/en-US/images/icon.png" width=160 height=160 align="center">
 
 # Seal Plus
+### 🎬 Android-এর জন্য ভিডিও/অডিও ডাউনলোডার
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/MaheshTechnicals/Sealplus?style=for-the-badge&label=Latest&logo=github)](https://github.com/MaheshTechnicals/Sealplus/releases/latest/)
+[![GitHub all releases](https://img.shields.io/github/downloads/MaheshTechnicals/Sealplus/total?style=for-the-badge&label=Downloads&logo=github)](https://github.com/MaheshTechnicals/Sealplus/releases/)
+[![GitHub Repo stars](https://img.shields.io/github/stars/MaheshTechnicals/Sealplus?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPHN2ZyBoZWlnaHQ9IjI0IiB2aWV3Qm94PSIwIC05NjAgOTYwIDk2MCIgd2lkdGg9IjI0IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgogIDxwYXRoIGQ9Im0zNTQtMjQ3IDEyNi03NiAxMjYgNzctMzMtMTQ0IDExMS05Ni0xNDYtMTMtNTgtMTM2LTU4IDEzNS0xNDYgMTMgMTExIDk3LTMzIDE0M1pNMjMzLTgwbDY1LTI4MUw4MC01NTBsMjg4LTI1IDExMi0yNjUgMTEyIDI2NSAyODgtMjUtMjE4IDE4OSA2NSAyODEtMjQ3LTE0OUwyMzMtODBabTI0Ny0zNTBaIiBzdHlsZT0iZmlsbDogcmdiKDI0NSwgMjI3LCA2Nik7Ii8%2BCjwvc3ZnPg%3D%3D&color=yellow)](https://www.star-history.com/?repos=MaheshTechnicals%2FSealplus&type=date&legend=top-left)
 
-### Video/Audio Downloader for Android
+বিশেষ থিম, এক্সক্লুসিভ ফিচার এবং Material 3 ডিজাইনসহ আধুনিক [Seal](https://github.com/JunkFood02/Seal)
 
+---
 
-English
-&nbsp;&nbsp;| &nbsp;&nbsp;
-<a href="https://github.com/JunkFood02/Seal/blob/main/translations/README-zh_Hans.md">简体中文</a>
-&nbsp;&nbsp;| &nbsp;&nbsp;
-<a href="https://github.com/JunkFood02/Seal/blob/main/translations/README-zh_Hant.md">繁體中文</a>
-&nbsp;&nbsp;| &nbsp;&nbsp;
-<a href="https://github.com/JunkFood02/Seal/blob/main/translations/README-ar.md">العربية</a>
-&nbsp;&nbsp;| &nbsp;&nbsp;
-<a href="https://github.com/JunkFood02/Seal/blob/main/translations/README-pt.md">Portuguese</a>
-&nbsp;&nbsp;| &nbsp;&nbsp;
-<a href="https://github.com/JunkFood02/Seal/blob/main/translations/README-ua.md">Українська</a>
-&nbsp;&nbsp;| &nbsp;&nbsp;
-<a href="https://github.com/JunkFood02/Seal/blob/main/translations/README-th.md">ภาษาไทย</a>
-&nbsp;&nbsp;| &nbsp;&nbsp;
-<a href="https://github.com/JunkFood02/Seal/blob/main/translations/README-fa.md">فارسی</a>
-&nbsp;&nbsp;| &nbsp;&nbsp;
-<a href="https://github.com/JunkFood02/Seal/blob/main/translations/README-it.md">Italiano</a>
-&nbsp;&nbsp;| &nbsp;&nbsp;
-<a href="https://github.com/JunkFood02/Seal/blob/main/translations/README-az.md">Azərbaycanca</a>
-&nbsp;&nbsp;| &nbsp;&nbsp;
-<a href="https://github.com/JunkFood02/Seal/blob/main/translations/README-ru.md">Русский</a>
-&nbsp;&nbsp;| &nbsp;&nbsp;
-<a href="https://github.com/JunkFood02/Seal/blob/main/translations/README-sr.md">Српски</a>
-&nbsp;&nbsp;| &nbsp;&nbsp;
-<a href="https://github.com/JunkFood02/Seal/blob/main/translations/README-ja.md">日本語</a>
-&nbsp;&nbsp;| &nbsp;&nbsp;
-<a href="https://github.com/JunkFood02/Seal/blob/main/translations/README-id.md">Indonesia</a>
-&nbsp;&nbsp;| &nbsp;&nbsp;
-<a href="https://github.com/JunkFood02/Seal/blob/main/translations/README-hi.md">हिंदी</a>
-&nbsp;&nbsp;| &nbsp;&nbsp;
-<a href="https://github.com/JunkFood02/Seal/blob/main/translations/README-bn.md">বাংলা</a>
+### 🌐 অনুবাদসমূহ
 
-[![F-Droid](https://img.shields.io/f-droid/v/com.junkfood.seal?color=b4eb12&label=F-Droid&logo=fdroid&logoColor=1f78d2)](https://f-droid.org/en/packages/com.junkfood.seal)
-[![GitHub release (latest by date)](https://img.shields.io/github/v/release/JunkFood02/Seal?color=black&label=Stable&logo=github)](https://github.com/JunkFood02/Seal/releases/latest/)
-[![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/JunkFood02/Seal?include_prereleases&label=Preview&logo=Github)](https://github.com/JunkFood02/Seal/releases/)
-[![Keep a Changelog](https://img.shields.io/badge/Changelog-lightgray?style=flat&color=gray&logo=keep-a-changelog)](https://github.com/JunkFood02/Seal/blob/main/CHANGELOG.md)
-[![GitHub all releases](https://img.shields.io/github/downloads/JunkFood02/Seal/total?label=Downloads&logo=github)](https://github.com/JunkFood02/Seal/releases/)
-[![GitHub Repo stars](https://img.shields.io/github/stars/JunkFood02/Seal?style=flat&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPHN2ZyBoZWlnaHQ9IjI0IiB2aWV3Qm94PSIwIC05NjAgOTYwIDk2MCIgd2lkdGg9IjI0IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgogIDxwYXRoIGQ9Im0zNTQtMjQ3IDEyNi03NiAxMjYgNzctMzMtMTQ0IDExMS05Ni0xNDYtMTMtNTgtMTM2LTU4IDEzNS0xNDYgMTMgMTExIDk3LTMzIDE0M1pNMjMzLTgwbDY1LTI4MUw4MC01NTBsMjg4LTI1IDExMi0yNjUgMTEyIDI2NSAyODggMjUtMjE4IDE4OSA2NSAyODEtMjQ3LTE0OUwyMzMtODBabTI0Ny0zNTBaIiBzdHlsZT0iZmlsbDogcmdiKDI0NSwgMjI3LCA2Nik7Ii8%2BCjwvc3ZnPg%3D%3D&color=%23f8e444)](https://github.com/JunkFood02/Seal/stargazers)
-[![Supported-Sites](https://img.shields.io/badge/Sites-9cf?style=flat&logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPHN2ZyBoZWlnaHQ9IjI0cHgiIHZpZXdCb3g9IjAgMCAyNCAyNCIgd2lkdGg9IjI0cHgiIGZpbGw9IiNGRkZGRkYiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiAgPHBhdGggZD0iTTAgMGgyNHYyNEgwVjB6IiBmaWxsPSJub25lIi8+CiAgPHBhdGggZD0iTTExLjk5IDJDNi40NyAyIDIgNi40OCAyIDEyczQuNDcgMTAgOS45OSAxMEMxNy41MiAyMiAyMiAxNy41MiAyMiAxMlMxNy41MiAyIDExLjk5IDJ6bTYuOTMgNmgtMi45NWMtLjMyLTEuMjUtLjc4LTIuNDUtMS4zOC0zLjU2IDEuODQuNjMgMy4zNyAxLjkxIDQuMzMgMy41NnpNMTIgNC4wNGMuODMgMS4yIDEuNDggMi41MyAxLjkxIDMuOTZoLTMuODJjLjQzLTEuNDMgMS4wOC0yLjc2IDEuOTEtMy45NnpNNC4yNiAxNEM0LjEgMTMuMzYgNCAxMi42OSA0IDEycy4xLTEuMzYuMjYtMmgzLjM4Yy0uMDguNjYtLjE0IDEuMzItLjE0IDJzLjA2IDEuMzQuMTQgMkg0LjI2em0uODIgMmgyLjk1Yy4zMiAxLjI1Ljc4IDIuNDUgMS4zOCAzLjU2LTEuODQtLjYzLTMuMzctMS45LTQuMzMtMy41NnptMi45NS04SDUuMDhjLjk2LTEuNjYgMi40OS0yLjkzIDQuMzMtMy41NkM4LjgxIDUuNTUgOC4zNSA2Ljc1IDguMDMgOHpNMTIgMTkuOTZjLS44My0xLjItMS40OC0yLjUzLTEuOTEtMy45NmgzLjgyYy0uNDMgMS40My0xLjA4IDIuNzYtMS45MSAzLjk2ek0xNC4zNCAxNEg5LjY2Yy0uMDktLjY2LS4xNi0xLjMyLS4xNi0ycy4wNy0xLjM1LjE2LTJoNC42OGMuMDkuNjUuMTYgMS4zMi4xNiAycy0uMDcgMS4zNC0uMTYgMnptLjI1IDUuNTZjLjYtMS4xMSAxLjA2LTIuMzEgMS4zOC0zLjU2aDIuOTVjLS45NiAxLjY1LTIuNDkgMi45My00LjMzIDMuNTZ6TTE2LjM2IDE0Yy4wOC0uNjYuMTQtMS4zMi4xNC0ycy0uMDYtMS4zNC0uMTQtMmgzLjM4Yy4xNi42NC4yNiAxLjMxLjI2IDJzLS4xIDEuMzYtLjI2IDJoLTMuMzh6IiBzdHlsZT0iZmlsbDogcmdiKDE2MiwgMTk4LCAyMzQpOyIvPgo8L3N2Zz4=&label=Supported)](https://github.com/yt-dlp/yt-dlp/blob/master/supportedsites.md)
-[![Telegram Channel](https://img.shields.io/badge/Telegram-Seal-blue?style=flat&logo=telegram)](https://t.me/seal_app)
-[![Matrix](https://img.shields.io/matrix/seal-space%3Amatrix.org?server_fqdn=matrix.org&style=flat&logo=element&label=Matrix&color=%230DBD8B)
-](https://matrix.to/#/#seal-space:matrix.org)
-
-
+<a href="https://github.com/JunkFood02/Seal/blob/main/README.md">🇬🇧</a>
+&nbsp;&nbsp;| &nbsp;&nbsp;
+<a href="https://github.com/JunkFood02/Seal/blob/main/translations/README-zh_Hans.md">🇨🇳</a>
+&nbsp;&nbsp;| &nbsp;&nbsp;
+<a href="https://github.com/JunkFood02/Seal/blob/main/translations/README-zh_Hant.md">🇹🇼</a>
+&nbsp;&nbsp;| &nbsp;&nbsp;
+<a href="https://github.com/JunkFood02/Seal/blob/main/translations/README-ar.md">🇸🇦</a>
+&nbsp;&nbsp;| &nbsp;&nbsp;
+<a href="https://github.com/JunkFood02/Seal/blob/main/translations/README-pt.md">🇵🇹</a>
+&nbsp;&nbsp;| &nbsp;&nbsp;
+<a href="https://github.com/JunkFood02/Seal/blob/main/translations/README-ua.md">🇺🇦</a>
+&nbsp;&nbsp;| &nbsp;&nbsp;
+<a href="https://github.com/JunkFood02/Seal/blob/main/translations/README-th.md">🇹🇭</a>
+&nbsp;&nbsp;| &nbsp;&nbsp;
+<a href="https://github.com/JunkFood02/Seal/blob/main/translations/README-fa.md">🇮🇷</a>
+&nbsp;&nbsp;| &nbsp;&nbsp;
+<a href="https://github.com/JunkFood02/Seal/blob/main/translations/README-it.md">🇮🇹</a>
+&nbsp;&nbsp;| &nbsp;&nbsp;
+<a href="https://github.com/JunkFood02/Seal/blob/main/translations/README-ja.md">🇯🇵</a>
+&nbsp;&nbsp;| &nbsp;&nbsp;
+<a href="https://github.com/JunkFood02/Seal/blob/main/translations/README-hi.md">🇮🇳</a>
+&nbsp;&nbsp;| &nbsp;&nbsp;
+🇧🇩
+&nbsp;&nbsp;| &nbsp;&nbsp;
+<a href="https://github.com/JunkFood02/Seal/blob/main/translations/README-az.md">🇦🇿</a>
 </div>
 
+---
 
-## 📱  স্ক্রিনশট
+## ✨ প্রধান বৈশিষ্ট্য
+
+### 🎨 প্রিমিয়াম ইউজার ইন্টারফেস ও থিম
+
+- **Gradient Dark Theme**
+  - ⭐ *শুধুমাত্র Seal Plus-এর জন্য* — OLED-এর জন্য উপযোগী গাঢ় ব্যাকগ্রাউন্ড, প্রাণবন্ত গ্রেডিয়েন্ট, glassmorphism এবং মসৃণ অ্যানিমেশন।
+- **Material Design 3** — ডায়নামিক রঙ, ডার্ক/লাইট থিম এবং আধুনিক Compose কম্পোনেন্ট।
+
+### 🎯 মূল ডাউনলোড সুবিধা
+
+- **ইউনিভার্সাল ডাউনলোডার** — [yt-dlp](https://github.com/yt-dlp/yt-dlp)-এর মাধ্যমে 1000-এর বেশি প্ল্যাটফর্ম সমর্থন করে।
+- **উচ্চমানের অডিও এক্সট্রাকশন** — [mutagen](https://github.com/quodlibet/mutagen)-এর মাধ্যমে metadata ও thumbnail সহ MP3, M4A, OPUS, FLAC বা WAV-এ অডিও এক্সট্রাক্ট করুন।
+- **প্লেলিস্ট সমর্থন** — progress tracking, কাস্টম ফাইল নাম এবং resume support সহ সম্পূর্ণ প্লেলিস্ট ডাউনলোড করুন।
+- **সাবটাইটেল সমর্থন** — ভিডিওতে সাবটাইটেল এম্বেড করুন অথবা একাধিক ভাষার সমর্থনসহ আলাদাভাবে ডাউনলোড করুন।
+
+### ⚡ উন্নত বৈশিষ্ট্য
+
+- **উচ্চ-গতির ডাউনলোড** — একাধিক সংযোগ, স্বয়ংক্রিয় retry এবং resume support সহ বিল্ট-ইন [aria2c](https://github.com/aria2/aria2) ইঞ্জিন।
+- **কাস্টম কমান্ড** — সম্পূর্ণ CLI কার্যকারিতা সহ কাস্টম yt-dlp command template তৈরি ও সংরক্ষণ করুন।
+- **ডাউনলোড ম্যানেজার** — ডাউনলোড history দেখুন, search ও filter করুন, ফাইল share করুন এবং batch operation চালান।
+
+### 🚀 Seal Plus-এর এক্সক্লুসিভ বৈশিষ্ট্য
+
+- **অটো-আপডেট সিস্টেম** — স্বয়ংক্রিয় version check, changelog প্রদর্শন এবং এক-ক্লিকে APK update।
+- **ইন্টিগ্রেটেড কমিউনিটি** — [YouTube tutorials](https://youtube.com/@maheshtechnicals) এবং [Telegram community](https://t.me/maheshtechnicals)-তে অ্যাক্সেস, নিয়মিত update ও support সহ।
+
+### 💻 প্রযুক্তিগত উৎকর্ষ
+
+- **Pure Kotlin Architecture** — Single Activity, সম্পূর্ণ Jetpack Compose UI, Clean MVVM এবং Kotlin Coroutines।
+- **Modern Tech Stack** — Android SDK 37, Kotlin 2.3.21, Jetpack Compose BOM 2026.05.01, Room 2.8.4 এবং Material 3।
+- **Optimized Performance** — hardware-accelerated animation, efficient memory management এবং battery-aware background processing।
+
+## 📱 স্ক্রিনশট
 
 <div align="center">
 <div>
-<img src="/fastlane/metadata/android/en-US/images/phoneScreenshots/1.jpg" width="30%" />
-<img src="/fastlane/metadata/android/en-US/images/phoneScreenshots/2.jpg" width="30%" />
-<img src="/fastlane/metadata/android/en-US/images/phoneScreenshots/3.jpg" width="30%" />
-<img src="/fastlane/metadata/android/en-US/images/phoneScreenshots/4.jpg" width="30%" />
-<img src="/fastlane/metadata/android/en-US/images/phoneScreenshots/5.jpg" width="30%" />
-<img src="/fastlane/metadata/android/en-US/images/phoneScreenshots/6.jpg" width="30%" />
-<img src="/fastlane/metadata/android/en-US/images/phoneScreenshots/7.jpg" width="30%" />
-<img src="/fastlane/metadata/android/en-US/images/phoneScreenshots/8.jpg" width="30%" />
-<img src="/fastlane/metadata/android/en-US/images/phoneScreenshots/9.jpg" width="30%" />
+<img src="/fastlane/metadata/android/en-US/images/phoneScreenshots/1.png" width="45%" />
+<img src="/fastlane/metadata/android/en-US/images/phoneScreenshots/2.png" width="45%" /><br>
+<img src="/fastlane/metadata/android/en-US/images/phoneScreenshots/3.png" width="45%" />
+<img src="/fastlane/metadata/android/en-US/images/phoneScreenshots/4.png" width="45%" /><br>
+<img src="/fastlane/metadata/android/en-US/images/phoneScreenshots/5.png" width="45%" />
+<img src="/fastlane/metadata/android/en-US/images/phoneScreenshots/6.png" width="45%" /><br>
+<img src="/fastlane/metadata/android/en-US/images/phoneScreenshots/7.png" width="45%" />
+<img src="/fastlane/metadata/android/en-US/images/phoneScreenshots/8.png" width="45%" /><br>
+<img src="/fastlane/metadata/android/en-US/images/phoneScreenshots/9.png" width="45%" />
+<img src="/fastlane/metadata/android/en-US/images/phoneScreenshots/10.png" width="45%" />
 </div>
 </div>
-
 <br>
 
-## 📖 ফিচারস
+## ⬇️ ডাউনলোড ও ইনস্টলেশন
 
-- [yt-dlp](https://github.com/yt-dlp/yt-dlp) (পূর্বের youtube-dl) সাপোর্টেড ভিডিও প্ল্যাটফর্ম থেকে ভিডিও এবং অডিও ফাইল ডাউনলোড করুন।
+<div align="center">
+<img src="https://github.com/nyxiereal/get-it-on/blob/master/badges/png/github.png" width=258 height=100>
 
-- [mutagen](https://github.com/quodlibet/mutagen) সাপোর্টেড এক্সট্র্যাক্টটেড অডিও ফাইলগুলিতে মেটাডেটা এবং ভিডিও থাম্বনেল এমবেডেড।
+<i>বেশিরভাগ Android ডিভাইসের জন্য সেরা পারফরম্যান্স পেতে **arm64-v8a** সংস্করণ ইনস্টল করুন।</i>
+</div>
 
-- এক ক্লিকে প্লে লিস্টের সব ভিডিও ডাউনলোড করুন।
+### 📱 ডিভাইস সামঞ্জস্যতা
 
-- সব ডাউনলোডের জন্য ডাউনলোডার হিসাবে এমবেডেড [aria2c](https://github.com/aria2/aria2) .
+| প্রয়োজনীয়তা | স্পেসিফিকেশন |
+|------------|---------------|
+| **ন্যূনতম Android** | Android 7.0 (API 24) |
+| **টার্গেট Android** | Android 17 (API 37) |
+| **বর্তমান সংস্করণ** | 3.0.0 |
+| **রিলিজের তারিখ** | 30 জুলাই 2026 |
 
-- ডাউনলোড করা ভিডিওগুলিতে সাবটাইটেল এম্বেড।
+### 📋 ইনস্টলেশন নির্দেশনা
 
-- টেমপ্লেট সহ কাস্টম yt-dlp কমান্ড রান করা।
+1. **ডাউনলোড করুন** — [Releases](https://github.com/MaheshTechnicals/Sealplus/releases/latest) পেজ থেকে আপনার ডিভাইসের architecture-এর জন্য উপযুক্ত APK ডাউনলোড করুন।
+2. **সক্রিয় করুন** — Settings → Security থেকে "Install from unknown sources" সক্রিয় করুন।
+3. **খুলুন** — ডাউনলোড করা APK ফাইলটি খুলুন।
+4. **অনুসরণ করুন** — স্ক্রিনে প্রদর্শিত installation instructions অনুসরণ করুন।
+5. **অনুমতি দিন** — অ্যাপ চালু করার সময় প্রয়োজনীয় permissions দিন।
+6. **উপভোগ করুন** — ঝামেলামুক্ত ডাউনলোড উপভোগ করুন!
 
-- ইন-অ্যাপ ডাউনলোড এবং কাস্টম কমান্ড টেমপ্লেট এর ব্যাবহার।
+> [!TIP]
+> **Auto-Update Feature**: ইনস্টল করার পর Seal Plus স্বয়ংক্রিয়ভাবে update-এর জন্য check করবে। নতুন version উপলব্ধ হলে আপনাকে জানানো হবে এবং এক ক্লিকেই update করতে পারবেন!
 
-- ব্যবহার করা সহজ এবং ইউজার ফ্রেন্ডলি।
+> [!WARNING]
+> **নিরাপত্তা বিজ্ঞপ্তি**: Seal Plus সবসময় শুধুমাত্র [অফিশিয়াল GitHub releases page](https://github.com/MaheshTechnicals/Sealplus/releases) থেকে ডাউনলোড করুন। আসল ও নিরাপদ সংস্করণ পাওয়ার জন্য third-party source থেকে ডাউনলোড করবেন না।
 
-- [Material Design 3](https://m3.material.io/) স্টাইলের UI, ডাইনামিক থিম সহ।
+---
 
-- MAD: UI এবং logic pure Kotlin এ কোড করা. একক কার্যকলাপ, কোন টুকরা নেই, শুধুমাত্র কমপোজ যোগ্য গন্তব্য।
+## ❓ প্রায়শই জিজ্ঞাসিত প্রশ্ন
 
+<details>
+<summary><b>📱 আমি কীভাবে Gradient Dark Theme সক্রিয় করব?</b></summary>
 
+1. **Settings** খুলুন
+2. **Appearance & Feel**-এ যান
+3. **Dark Theme** সক্রিয় করুন (যদি ইতিমধ্যে সক্রিয় না থাকে)
+4. **Gradient Dark** toggle সক্রিয় করুন
+5. Premium glassmorphism interface উপভোগ করুন!
 
-## ⬇️ ডাউনলোড
+এই থিমে গাঢ় background, প্রাণবন্ত blue-purple gradient এবং মসৃণ animation রয়েছে।
+</details>
 
-বেশিরভাগ ডিভাইসের জন্য, apks-এর **arm64-v8a** ইনস্টল করুন।
+<details>
+<summary><b>🔄 Auto-update কীভাবে কাজ করে?</b></summary>
 
-- [GitHub releases](https://github.com/JunkFood02/Seal/releases/latest) থেকে লেটেস্ট রিলিজ ডাউনলোড করুন।
-  - আমাদের সাহায্য করতে নতুন ফিচার ও পরিবর্তন টেস্ট করতে জন্য [pre-release](https://github.com/JunkFood02/Seal/releases/) ভার্সন ইনস্টল করুন।
+Seal Plus GitHub releases থেকে স্বয়ংক্রিয়ভাবে update check করে:
 
-- [F-Droid](https://f-droid.org/packages/com.junkfood.seal/) এও লেটেস্ট রিলিজ পাওয়া যাবে।
+- সব installation-এর জন্য ডিফল্টভাবে সক্রিয়
+- অ্যাপ খোলার সময় check করে (কোনো বিরক্তিকর notification ছাড়াই)
+- update করার আগে changelog দেখায়
+- এক-ক্লিকে download ও install
+- Settings → About → Auto-Update থেকে বন্ধ করা যায়
 
-<!-- [<img src="https://fdroid.gitlab.io/artwork/badge/get-it-on.png"
-     alt="Get it on F-Droid"
-     height="70">](https://f-droid.org/packages/com.junkfood.seal/) -->
+এখন আর manual update check করার দরকার নেই!
+</details>
 
-## 💬 যোগাযোগ
+<details>
+<summary><b>📥 কোন architecture ডাউনলোড করা উচিত?</b></summary>
 
-আলোচনা, ঘোষণা এবং রিলিজের জন্য আমাদের  [টেলিগ্রাম চ্যানেল](https://t.me/seal_app) বা [ম্যাট্রিক্স স্পেস](https://matrix.to/#/#seal-space:matrix.org) এ যোগ দিন!
+| Architecture | উপযুক্ত |
+|--------------|-----------------|
+| **arm64-v8a** | বেশিরভাগ আধুনিক Android ফোন (2017+) - **প্রস্তাবিত** |
+| **armeabi-v7a** | পুরোনো ফোন (2011-2017) |
+| **x86_64** | Intel/AMD-based device ও emulator |
+| **x86** | পুরোনো Intel/AMD device |
+| **universal** | সব device-এ কাজ করে (বড় file size) |
 
-## 💖 স্পনসর
+এই project BrowserStack ব্যবহার করে test করা হয়েছে।
 
-<p><!-- sponsors --><a href="https://github.com/4kaimar"><img src="https://github.com/4kaimar.png" width="60px" alt="" /></a><a href="https://github.com/gordongw"><img src="https://github.com/gordongw.png" width="60px" alt="Gordon" /></a><a href="https://github.com/zuble"><img src="https://github.com/zuble.png" width="60px" alt="zuble" /></a><a href="https://github.com/Dannyordaniel"><img src="https://github.com/Dannyordaniel.png" width="60px" alt="Daniel " /></a><a href="https://github.com/NRN83"><img src="https://github.com/NRN83.png" width="60px" alt="" /></a><!-- sponsors --></p>
+**কোনটি বেছে নেবেন বুঝতে পারছেন না?** **universal** APK ডাউনলোড করুন — এটি সব device-এ কাজ করে!
+</details>
 
+<details>
+<summary><b>🌍 আমি কি যেকোনো website থেকে ডাউনলোড করতে পারি?</b></summary>
 
-সীল সর্বদা বিনামূল্যে এবং সবার জন্য উন্মুক্ত থাকবে । আপনারা যদি এটা পছন্দ করে থাকেন, আমাকে [স্পনসর করুন!](https://github.com/sponsors/JunkFood02)!
+Seal Plus yt-dlp-এর মাধ্যমে **1000-এর বেশি platform** সমর্থন করে, যার মধ্যে রয়েছে:
 
-## 🤝 অবদান
+- ✅ YouTube, YouTube Music
+- ✅ Instagram, TikTok, Twitter/X
+- ✅ Facebook, Reddit, Vimeo
+- ✅ Twitch, SoundCloud, Bandcamp
+- ✅ Dailymotion, Bilibili এবং আরও অনেক কিছু!
 
- সবার অবদানকে স্বাগত জানাই!
- আপনি [Hosted Weblate](https://hosted.weblate.org/projects/seal/) সিল অনুবাদ করতে সাহায্য করতে পারেন।
-	
-[![Translate status](https://hosted.weblate.org/widgets/seal/-/strings/multi-auto.svg)](https://hosted.weblate.org/engage/seal/)
-	
->[!দ্রষ্টব্য]
+[সম্পূর্ণ তালিকা দেখুন →](https://github.com/yt-dlp/yt-dlp/blob/master/supportedsites.md)
+</details>
+
+<details>
+<summary><b>🎵 আমি কি ভিডিও থেকে শুধু audio extract করতে পারি?</b></summary>
+
+হ্যাঁ! Seal Plus উচ্চমানের audio extraction প্রদান করে:
+
+- "Save as Audio" সক্রিয় করুন
+- Format নির্বাচন করুন (MP3, M4A, OPUS ইত্যাদি)
+- Metadata স্বয়ংক্রিয়ভাবে যোগ হয়
+- Album art/thumbnail অন্তর্ভুক্ত হয়
+- Quality settings কাস্টমাইজ করা যায়
+
+Music download ও podcast-এর জন্য আদর্শ!
+</details>
+
+<details>
+<summary><b>🔧 General Mode এবং Custom Command Mode-এর মধ্যে পার্থক্য কী?</b></summary>
+
+**General Mode** (সহজ):
+- ব্যবহারবান্ধব interface
+- Pre-configured options
+- Automatic file organization
+- বেশিরভাগ ব্যবহারকারীর জন্য উপযুক্ত
+
+**Custom Command Mode** (Advanced):
+- yt-dlp CLI-তে সম্পূর্ণ access
+- Template তৈরি ও সংরক্ষণ
+- Advanced configuration
+- Terminal-এর মতো control
+
+আপনার অভিজ্ঞতার স্তরের উপযোগী mode বেছে নিন!
+</details>
+
+<details>
+<summary><b>🔐 Seal Plus কি নিরাপদ? এটি কি আমার data সংগ্রহ করে?</b></summary>
+
+**সম্পূর্ণ নিরাপদ!**
+
+- ✅ 100% open source (আপনি সম্পূর্ণ code দেখতে পারেন)
+- ✅ কোনো data collection বা analytics নেই
+- ✅ কোনো ads বা trackers নেই
+- ✅ Download ছাড়া internet permission নেই
+- ✅ সব processing আপনার device-এ localভাবে হয়
+- ✅ GPL-3.0-এর অধীনে licensed
+
+আপনি [source code](https://github.com/MaheshTechnicals/Sealplus)-এ সবকিছু যাচাই করতে পারেন।
+</details>
+
+<details>
+<summary><b>📱 Seal এবং Seal Plus-এর মধ্যে পার্থক্য কী?</b></summary>
+
+**Seal Plus** হলো একটি enhanced fork যার মধ্যে রয়েছে:
+
+- 🎨 Glassmorphism সহ **exclusive Gradient Dark Theme**
+- 🚀 ডিফল্টভাবে সক্রিয় **Auto-update System**
+- 📺 **Enhanced Community** (YouTube, Telegram)
+- 🔧 **Additional UI improvements** ও optimizations
+- 🎯 Mahesh Technicals দ্বারা **Active Maintenance**
+- 🏆 **Latest Tech Stack** (Kotlin 2.0, Compose 2025, SDK 36)
+
+দুটিই বিনামূল্যে এবং open source!
+</details>
+
+<details>
+<summary><b>❌ Download error হচ্ছে। কী করব?</b></summary>
+
+নিচের সমাধানগুলো চেষ্টা করুন:
+
+1. **yt-dlp আপডেট করুন**: Settings → About → Update yt-dlp
+2. **Internet check করুন**: আপনার connection স্থিতিশীল কিনা নিশ্চিত করুন
+3. **Cache clear করুন**: Settings → Storage → Clear Cache
+4. **Custom Command চেষ্টা করুন**: কিছু website-এর জন্য নির্দিষ্ট parameters প্রয়োজন
+5. **Site support check করুন**: [Supported Sites List](https://github.com/yt-dlp/yt-dlp/blob/master/supportedsites.md) দেখুন
+6. **সমস্যাটি report করুন**: বিস্তারিতসহ [GitHub Issues](https://github.com/MaheshTechnicals/Sealplus/issues)-এ জানান
+
+বেশিরভাগ সমস্যা yt-dlp আপডেট করলেই সমাধান হয়!
+</details>
+
+---
+
+## 💬 কমিউনিটি ও সাপোর্ট
+
+### 🌐 আমাদের কমিউনিটিতে যোগ দিন
+
+Seal Plus community-এর সঙ্গে যুক্ত থাকুন এবং support পান:
+
+- **📺 YouTube Channel**: [Mahesh Technicals](https://youtube.com/@maheshtechnicals)
+  - Video tutorials ও feature demonstrations
+  - Advanced usage-এর tips ও tricks
+  - Update announcements ও previews
+
+- **💬 Telegram Channel**: [@maheshtechnicals-এ যোগ দিন](https://t.me/maheshtechnicals)
+  - সর্বশেষ updates ও announcements
+  - দ্রুত community support
+  - Developer-এর সঙ্গে সরাসরি যোগাযোগ
+  - Beta testing-এর সুযোগ
+
+### 🐛 Bug Reports ও Feature Requests
+
+আপনার feedback আমাদের কাছে গুরুত্বপূর্ণ! Seal Plus উন্নত করতে সাহায্য করুন:
+
+1. **প্রথমে check করুন**: Duplicate এড়াতে [existing issues](https://github.com/MaheshTechnicals/Sealplus/issues) দেখুন
+2. **Guidelines পড়ুন**: আমাদের [contribution guidelines](https://github.com/MaheshTechnicals/Sealplus/blob/main/CONTRIBUTING.md) দেখুন
+3. **Issue report করুন**: নিচের তথ্যসহ [নতুন issue](https://github.com/MaheshTechnicals/Sealplus/issues/new) খুলুন:
+   - সমস্যা/feature-এর পরিষ্কার বিবরণ
+   - Reproduction steps (bug-এর জন্য)
+   - আপনার device model ও Android version
+   - App version ও build variant
+   - Screenshots বা screen recordings (যদি প্রযোজ্য হয়)
+
+### 📖 Documentation ও Resources
+
+- **📋 Changelog**: [সব পরিবর্তন ও updates দেখুন](https://github.com/MaheshTechnicals/Sealplus/blob/main/CHANGELOG.md)
+- **🌍 Supported Sites**: [1000+ supported platform-এর সম্পূর্ণ তালিকা](https://github.com/yt-dlp/yt-dlp/blob/master/supportedsites.md)
+- **🎨 Gradient Dark Theme**: [সম্পূর্ণ documentation](https://github.com/MaheshTechnicals/Sealplus/blob/main/GRADIENT_DARK_README.md)
+- **📖 Contribution Guide**: [কীভাবে contribute করবেন](https://github.com/MaheshTechnicals/Sealplus/blob/main/CONTRIBUTING.md)
+
+## 💖 Seal Plus-কে সমর্থন করুন
+
+### ❤️ আপনার সমর্থন দেখান
+
+Seal Plus হলো community দ্বারা passion-এর সঙ্গে তৈরি **100% free এবং open-source** software। আপনি যেভাবে সাহায্য করতে পারেন:
+
+| কাজ | প্রভাব |
+|--------|--------|
+| ⭐ **Repository-তে Star দিন** | অন্যদের Seal Plus খুঁজে পেতে সাহায্য করুন |
+| 📺 **YouTube-এ Subscribe করুন** | Tutorials ও update notifications পান |
+| 💬 **Telegram-এ যোগ দিন** | Community-এর সঙ্গে যোগাযোগ করুন |
+| 🐛 **Bug Report করুন** | সমস্যাগুলো দ্রুত সমাধান করতে সাহায্য করুন |
+| 💡 **Feature Suggest করুন** | Seal Plus-এর ভবিষ্যৎ গঠনে অবদান রাখুন |
+| 🌍 **Translate করুন** | Software-টিকে বিশ্বজুড়ে accessible করুন |
+| 📢 **Share করুন** | আপনার বন্ধুদের Seal Plus সম্পর্কে জানান |
+
+আপনার contribution ও support-ই এই project-কে সম্ভব করে তোলে! 🙏
+
+## ⭐ Star History
+
+সময়ের সঙ্গে আমাদের community কীভাবে বেড়েছে তা দেখুন!
+
+<a href="https://www.star-history.com/?repos=MaheshTechnicals%2FSealplus&type=date&legend=top-left">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=MaheshTechnicals/Sealplus&type=date&theme=dark&legend=top-left&sealed_token=GOlb1s7yaOu_jIlZC6RgDlzDCmd8ES-3lqcTtDciPQFpy_uLPyxWkX0aE9zzzfmENuI1HsIHaIO247uaLgCSijoYhEkKo0CWE1en_LqiTZfObqGgZSLzgw" />
+    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=MaheshTechnicals/Sealplus&type=date&legend=top-left&sealed_token=GOlb1s7yaOu_jIlZC6RgDlzDCmd8ES-3lqcTtDciPQFpy_uLPyxWkX0aE9zzzfmENuI1HsIHaIO247uaLgCSijoYhEkKo0CWE1en_LqiTZfObqGgZSLzgw" />
+    <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=MaheshTechnicals/Sealplus&type=date&legend=top-left&sealed_token=GOlb1s7yaOu_jIlZC6RgDlzDCmd8ES-3lqcTtDciPQFpy_uLPyxWkX0aE9zzzfmENuI1HsIHaIO247uaLgCSijoYhEkKo0CWE1en_LqiTZfObqGgZSLzgw" />
+  </picture>
+</a>
+
+## 🙏 কৃতজ্ঞতা ও ক্রেডিট
+
+Seal Plus অনেক open-source project-এর ওপর ভিত্তি করে তৈরি এবং সেগুলো থেকে অনুপ্রেরণা নিয়েছে। বিশেষভাবে **[Seal](https://github.com/JunkFood02/Seal)** এবং **[yt-dlp](https://github.com/yt-dlp/yt-dlp)**-কে ধন্যবাদ।
+
+এছাড়াও আমরা **[youtubedl-android](https://github.com/yausername/youtubedl-android)**, **[aria2](https://github.com/aria2/aria2)**, **[Mutagen](https://github.com/quodlibet/mutagen)** এবং বিভিন্ন Android ও Material library ব্যবহার করি এবং/অথবা সেগুলো থেকে উপকৃত হই।
+
+সম্পূর্ণ credits ও attribution-এর জন্য [ACKNOWLEDGEMENTS.md](ACKNOWLEDGEMENTS.md) দেখুন।
+
+## 📃 লাইসেন্স
+
+[![GitHub](https://img.shields.io/github/license/MaheshTechnicals/Sealplus?style=for-the-badge)](https://github.com/MaheshTechnicals/Sealplus/blob/main/LICENSE)
+
+>[!Warning]
 >
->বাগ রিপোর্ট জমা দেওয়ার জন্য, ফিচার এর অনুরোধ, প্রশ্ন, বা ডেভেলপমেন্টের জন্য অন্য কোন পরামর্শ থাকলে অনুগ্রহ করে প্রথমে নির্দেশাবলী এবং নির্দেশিকাগুলির জন্য  [CONTRIBUTING.md](https://github.com/JunkFood02/Seal/blob/main/CONTRIBUTING.md) পড়ুন।
-
-## ⭐️ স্টার চার্ট
-
-[![Star History Chart](https://api.star-history.com/svg?repos=JunkFood02/Seal&type=Timeline)](https://star-history.com/#JunkFood02/Seal&Timeline)
-
-
-## 🧱 ক্রেডিট
-
-[youtubedl-android](https://github.com/yausername/youtubedl-android) -এর উপর ভিত্তি করে সিল  [yt-dlp](https://github.com/yt-dlp/yt-dlp) -এর একটি সাধারণ GUI, 
-
-কিছু UI ডিজাইন এবং কোড [Read You](https://github.com/Ashinch/ReadYou) এবং [Music You](https://github.com/Kyant0/MusicYou) থেকে ধার করা হয়েছে।
-
-[dvd](https://github.com/yausername/dvd)
-
-[Material color utilities](https://github.com/material-foundation/material-color-utilities)
-
-[Monet](https://github.com/Kyant0/Monet)
-
-## 📃  লাইসেন্স
-
-[![GitHub](https://img.shields.io/github/license/JunkFood02/Seal?style=for-the-badge)](https://github.com/JunkFood02/Seal/blob/main/LICENSE)
-
->[!সতর্কতা]
->
->GPLv3 লাইসেন্সের অধীনে লাইসেন্সকৃত সোর্স কোড ব্যতীত, অন্যান্য সমস্ত পক্ষকে ডাউনলোডার অ্যাপ 
->হিসাবে সিলের নাম ব্যবহার করা নিষিদ্ধ এবং সিলের ডেরিভেটিভের ক্ষেত্রেও এটি সত্য। ডেরিভেটিভস 
->অন্তর্ভুক্ত কিন্তু ফোর্ক এবং অফিসিয়াল বিল্ডের মধ্যে সীমাবদ্ধ নয়।
+>GPLv3 লাইসেন্সের অধীনে থাকা source code ব্যতীত,
+>অন্য কোনো পক্ষের জন্য Seal নামটি content downloader application হিসেবে ব্যবহার করা নিষিদ্ধ,
+>এবং একই নিয়ম Seal-এর derivatives-এর ক্ষেত্রেও প্রযোজ্য।
+>Derivatives-এর মধ্যে fork এবং unofficial build অন্তর্ভুক্ত, তবে এতেই সীমাবদ্ধ নয়।
 
 <div align="right">
 <table><td>
-<a href="#start-of-content">👆 উপরে স্ক্রোল করুন</a>
+<a href="#start-of-content">👆 উপরে ফিরে যান</a>
 </td></table>
 </div>
+```
