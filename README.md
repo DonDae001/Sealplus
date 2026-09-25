@@ -52,7 +52,7 @@ A modern [Seal](https://github.com/JunkFood02/Seal) featuring custom themes, exc
 - **Material Design 3** — Dynamic colors, Dark/Light themes, and modern Compose components.
 
 ### 🎯 Core Download Capabilities
-- **Universal Downloader** — Support for 1000+ platforms via [yt-dlp](https://github.com/yt-dlp/yt-dlp). ([Supported sites](https://github.com/yt-dlp/yt-dlp/blob/master/supportedsites.md))
+- **Universal Downloader** — Support for 1000+ platforms via [yt-dlp](https://github.com/yt-dlp/yt-dlp).
 - **High-Quality Audio Extraction** — Extract MP3, M4A, OPUS, FLAC, or WAV with metadata and thumbnail embedding via [mutagen](https://github.com/quodlibet/mutagen).
 - **Playlist Support** — Download entire playlists with progress tracking, customizable naming, and resume support.
 - **Subtitle Support** — Embed subtitles into videos or download them separately with multi-language support.
@@ -307,82 +307,7 @@ Seal Plus is **100% free and open-source** software, built with passion by the c
 | 🌍 **Translate** | Make it accessible worldwide |
 | 📢 **Share** | Tell your friends about Seal Plus |
 
-### 🎉 Special Thanks
-
-A huge thank you to:
-- **[JunkFood02](https://github.com/JunkFood02)** and all [original Seal contributors](https://github.com/JunkFood02/Seal/graphs/contributors)
-- **All sponsors** supporting the original Seal project
-- **Our community members** providing feedback and bug reports
-- **Translators** making Seal Plus accessible worldwide
-- **Everyone** who has starred, shared, or used Seal Plus
-
 Your contributions and support make this project possible! 🙏
-
-## 🤝 Contributing to Seal Plus
-
-We welcome all contributions! Whether you're a developer, designer, translator, or user, there's a way for you to help.
-
-### 🌍 Translations
-
-Help make Seal Plus accessible to users worldwide:
-
-- **Contribute**: Visit [Hosted Weblate](https://hosted.weblate.org/projects/seal/) to add or improve translations
-- **Current Status**: 
-
-[![Translation Status](https://hosted.weblate.org/widgets/seal/-/strings/multi-auto.svg)](https://hosted.weblate.org/engage/seal/)
-
-### 💻 Code Contributions
-
-#### Getting Started
-1. **Fork** the repository
-2. **Clone** your fork: `git clone https://github.com/YOUR_USERNAME/Seal.git`
-3. **Create** a feature branch: `git checkout -b feature/amazing-feature`
-4. **Make** your changes
-5. **Test** thoroughly on multiple devices
-6. **Commit** with clear messages: `git commit -m "Add amazing feature"`
-7. **Push** to your fork: `git push origin feature/amazing-feature`
-8. **Open** a Pull Request with detailed description
-
-#### Development Environment
-```bash
-# Requirements
-- Android Studio Ladybug or later
-- JDK 17 or later
-- Android SDK 24-36
-- Gradle 8.13+
-
-# Build
-./gradlew assembleRelease
-
-# Debug Build
-./gradlew assembleDebug
-```
-
-### 📋 Contribution Guidelines
-
-> [!IMPORTANT]
-> Before contributing, please read our [Contributing Guidelines](https://github.com/MaheshTechnicals/Sealplus/blob/main/CONTRIBUTING.md) for:
-> - Code style standards
-> - Commit message conventions
-> - Pull request requirements
-> - Feature request process
-> - Bug report templates
-
-### 🏗️ Technology Stack
-
-| Component | Technology | Version |
-|-----------|-----------|---------|
-| **Language** | Kotlin | 2.3.21 |
-| **UI Framework** | Jetpack Compose | 2026.05.01 |
-| **Architecture** | MVVM + Clean Architecture | - |
-| **Build System** | Gradle (KTS) | 9.5.1 |
-| **Minimum SDK** | Android 7.0 | API 24 |
-| **Target SDK** | Android 17 | API 37 |
-| **Database** | Room | 2.8.4 |
-| **Async** | Kotlin Coroutines | 1.11.0 |
-| **Networking** | OkHttp | 4.12.0 |
-| **Image Loading** | Coil 3 | 3.4.0 |
-| **DI** | Koin | 4.2.1 |
 
 ## ⭐ Star History
 
@@ -396,64 +321,13 @@ Watch how our community has grown over time!
  </picture>
 </a>
 
----
+## 🙏 Acknowledgements
 
-## 🙏 Acknowledgments & Credits
+Seal Plus is built upon and inspired by many open-source projects, with a special thanks to **[Seal](https://github.com/JunkFood02/Seal)** and **[yt-dlp](https://github.com/yt-dlp/yt-dlp)**.
 
-Seal Plus stands on the shoulders of giants. We're grateful to these amazing open-source projects and contributors:
+We also use and/or draw from projects such as **[youtubedl-android](https://github.com/yausername/youtubedl-android)**, **[aria2](https://github.com/aria2/aria2)**, **[Mutagen](https://github.com/quodlibet/mutagen)**, and various Android and Material libraries.
 
-### 🏆 Core Technologies
-
-| Project | Description | License |
-|---------|-------------|---------|
-| **[yt-dlp](https://github.com/yt-dlp/yt-dlp)** | Powerful video downloader engine | Unlicense |
-| **[youtubedl-android](https://github.com/yausername/youtubedl-android)** | Android wrapper for yt-dlp | GPL-3.0 |
-| **[aria2](https://github.com/aria2/aria2)** | High-speed download utility | GPL-2.0 |
-| **[mutagen](https://github.com/quodlibet/mutagen)** | Audio metadata handler | GPL-2.0 |
-
-### 🎨 Design & UI Inspiration
-
-| Project | Inspiration | Author |
-|---------|-------------|--------|
-| **[Seal](https://github.com/JunkFood02/Seal)** | Original foundation | [JunkFood02](https://github.com/JunkFood02) |
-| **[Read You](https://github.com/Ashinch/ReadYou)** | UI patterns & components | [Ashinch](https://github.com/Ashinch) |
-| **[Music You](https://github.com/Kyant0/MusicYou)** | Design aesthetic | [Kyant0](https://github.com/Kyant0) |
-| **[dvd](https://github.com/yausername/dvd)** | Additional utilities | [yausername](https://github.com/yausername) |
-
-### 🌈 Material Design System
-
-| Library | Purpose |
-|---------|---------|
-| **[Material Color Utilities](https://github.com/material-foundation/material-color-utilities)** | Dynamic color theming |
-| **[Monet](https://github.com/Kyant0/Monet)** | Color scheme generation |
-| **[Material 3 Components](https://m3.material.io/)** | Modern UI components |
-
-### 🎯 Seal Plus Exclusive Features
-
-**Gradient Dark Theme** - Premium UI mode with glassmorphism effects
-- Designed and implemented by [Mahesh Technicals](https://github.com/MaheshTechnicals)
-- 21 new resource files and components
-- 2,200+ lines of documentation
-- [View Implementation Guide](https://github.com/MaheshTechnicals/Sealplus/blob/main/GRADIENT_DARK_IMPLEMENTATION_GUIDE.md)
-
-### 🌟 Original Creator
-
-**[JunkFood02](https://github.com/JunkFood02)** - Creator of the original Seal project
-- Thank you for building an amazing foundation
-- Seal Plus is an enhanced fork with additional features
-- All [original contributors](https://github.com/JunkFood02/Seal/graphs/contributors) deserve recognition
-
-### 🌍 Community Contributors
-
-- **Translators** on [Weblate](https://hosted.weblate.org/projects/seal/) - Making Seal Plus accessible worldwide
-- **Beta Testers** - Helping us catch bugs early
-- **Issue Reporters** - Providing valuable feedback
-- **Feature Suggesters** - Shaping the roadmap
-- **All Contributors** to [Seal Plus](https://github.com/MaheshTechnicals/Sealplus/graphs/contributors)
-
-### 💝 Special Recognition
-
-This project wouldn't be possible without the collective efforts of the open-source community. Every contribution, no matter how small, makes a difference. Thank you all! 🙏
+For complete credits and attributions, see [ACKNOWLEDGEMENTS.md](ACKNOWLEDGEMENTS.md).
 
 ## 📃 License
 
