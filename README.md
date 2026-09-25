@@ -46,16 +46,10 @@ A modern [Seal](https://github.com/JunkFood02/Seal) featuring custom themes, exc
 
 ## ✨ Key Features
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-    
-
 ### 🎨 Premium UI & Theming
-- **Gradient Dark Theme** ⭐ *Exclusive to Seal Plus* — OLED-friendly dark backgrounds, vibrant gradients, glassmorphism, and smooth animations.
+- **Gradient Dark Theme**
+  - ⭐ *Exclusive to Seal Plus* — OLED-friendly dark backgrounds, vibrant gradients, glassmorphism, and smooth animations.
 - **Material Design 3** — Dynamic colors, Dark/Light themes, and modern Compose components.
-
----
 
 ### 🎯 Core Download Capabilities
 - **Universal Downloader** — Support for 1000+ platforms via [yt-dlp](https://github.com/yt-dlp/yt-dlp). ([Supported sites](https://github.com/yt-dlp/yt-dlp/blob/master/supportedsites.md))
@@ -63,44 +57,34 @@ A modern [Seal](https://github.com/JunkFood02/Seal) featuring custom themes, exc
 - **Playlist Support** — Download entire playlists with progress tracking, customizable naming, and resume support.
 - **Subtitle Support** — Embed subtitles into videos or download them separately with multi-language support.
 
-    </td>
-    <td width="50%" valign="top">
-
 ### ⚡ Advanced Features
 - **High-Speed Downloads** — Embedded [aria2c](https://github.com/aria2/aria2) engine with multi-connection downloads, automatic retries, and resume support.
 - **Custom Commands** — Create and save custom yt-dlp command templates with full CLI functionality.
 - **Download Manager** — Track download history, search and filter downloads, share files, and perform batch operations.
 
----
-
 ### 🚀 Exclusive Seal Plus Features
 - **Auto-Update System** — Automatic version checking, changelog display, and one-click APK updates.
 - **Enhanced Community** — Access to [YouTube tutorials](https://youtube.com/@maheshtechnicals) and the [Telegram community](https://t.me/maheshtechnicals), with regular updates and support.
-
----
 
 ### 💻 Technical Excellence
 - **Pure Kotlin Architecture** — Single Activity, 100% Jetpack Compose UI, Clean MVVM, and Kotlin Coroutines.
 - **Modern Technology Stack** — Android SDK 37, Kotlin 2.3.21, Jetpack Compose BOM 2026.05.01, Room 2.8.4, and Material 3.
 - **Performance Optimized** — Hardware-accelerated animations, efficient memory management, and battery-conscious background processing.
 
-    </td>
-  </tr>
-</table>
-
 ## 📱 Screenshots
 
 <div align="center">
 <div>
 <img src="fastlane/metadata/android/en-US/images/phoneScreenshots/1.png" width="30%" />
-<img src="fastlane/metadata/android/en-US/images/phoneScreenshots/2.png" width="30%" />
+<img src="fastlane/metadata/android/en-US/images/phoneScreenshots/2.png" width="30%" /><br>
 <img src="fastlane/metadata/android/en-US/images/phoneScreenshots/3.png" width="30%" />
-<img src="fastlane/metadata/android/en-US/images/phoneScreenshots/4.png" width="30%" />
+<img src="fastlane/metadata/android/en-US/images/phoneScreenshots/4.png" width="30%" /><br>
 <img src="fastlane/metadata/android/en-US/images/phoneScreenshots/5.png" width="30%" />
-<img src="fastlane/metadata/android/en-US/images/phoneScreenshots/6.png" width="30%" />
+<img src="fastlane/metadata/android/en-US/images/phoneScreenshots/6.png" width="30%" /><br>
 <img src="fastlane/metadata/android/en-US/images/phoneScreenshots/7.png" width="30%" />
-<img src="fastlane/metadata/android/en-US/images/phoneScreenshots/8.png" width="30%" />
+<img src="fastlane/metadata/android/en-US/images/phoneScreenshots/8.png" width="30%" /><br>
 <img src="fastlane/metadata/android/en-US/images/phoneScreenshots/9.png" width="30%" />
+<img src="fastlane/metadata/android/en-US/images/phoneScreenshots/10.png" width="30%" />
 </div>
 </div>
 
@@ -111,6 +95,7 @@ A modern [Seal](https://github.com/JunkFood02/Seal) featuring custom themes, exc
 <img src="https://github.com/nyxiereal/get-it-on/blob/master/badges/png/github.png" width=258 height=100>
 
 <i>For most Android devices, install the **arm64-v8a** version for optimal performance.</i>
+</div>
 
 ### 📱 Device Compatibility
 
@@ -120,8 +105,6 @@ A modern [Seal](https://github.com/JunkFood02/Seal) featuring custom themes, exc
 | **Target Android** | Android 17 (API 37) |
 | **Current Version** | 3.0.0 |
 | **Release Date** | July 30, 2026 |
-
-</div>
 
 ### 📋 Installation Instructions
 
