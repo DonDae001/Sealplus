@@ -353,4 +353,3 @@ Tam kreditlər və müəlliflik məlumatları üçün [ACKNOWLEDGEMENTS.md](ACKN
 <a href="#start-of-content">👆 Yuxarı qayıt</a>
 </td></table>
 </div>
-```
